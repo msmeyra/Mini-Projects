@@ -1,2 +1,2 @@
-# Pratice Programs in Python
+# Mini Programs in Python
 
